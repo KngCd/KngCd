@@ -1,14 +1,12 @@
 # Hi there, I'm Cedrick👋
 
-Welcome to my GitHub profile! I'm a passionate [Developer/Engineer/Designer/etc.] with a love for [list some of your favorite technologies or domains, e.g., web development, machine learning, mobile apps, etc.]. 
+Welcome to my GitHub profile! I'm a passionate Developer with a love for web development. 
 
-I enjoy working on [mention your favorite projects or the type of work you focus on], and I'm always looking for new challenges to learn and grow. 
+I enjoy working on testing/creating web systems, and basic troubleshooting, and I'm always looking for new challenges to learn and grow. 
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning VILT stack.
 - 🚀 I’m passionate about software testing, troubleshooting, and networking.
-- 🔭 I’m looking to collaborate on [the types of projects you're open to collaborating on].
-- 🤔 I’m always open to discussing [list any areas you're particularly interested in, such as software development, AI, etc.].
 - 📫 How to reach me: panaligankingcedrick@gmail.com.
 
 ### 🛠️ Technologies & Tools:
