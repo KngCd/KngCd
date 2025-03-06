@@ -6,7 +6,7 @@ I enjoy working on testing/creating web systems, and basic troubleshooting, and 
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning VILT stack.
-- 🚀 I’m passionate about software testing, troubleshooting, and networking.
+- 🚀 I’m very curious about software testing, troubleshooting, and networking.
 - 📫 How to reach me: panaligankingcedrick@gmail.com.
 
 ### 🛠️ Technologies & Tools:
