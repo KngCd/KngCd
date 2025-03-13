@@ -12,6 +12,13 @@ I enjoy working on testing/creating web systems, and basic troubleshooting, and 
 ### 🛠️ Technologies & Tools:
 - Languages: Bootstrap, Tailwind, & PHP
 - Tools: Git, VSCode
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ### 📣 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
