@@ -29,9 +29,7 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 </p>
 
 ### 🔥 My GitHub Stats  
-[![KngCd's GitHub stats](https://github-readme-stats.vercel.app/api?username=KngCd&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=KngCd&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![KngCd's GitHub stats](https://github-readme-stats.vercel.app/api?username=KngCd&show_icons=true&theme=dark&count_private=true&custom_title=KngCd's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 📣 Let's Connect:
 [![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&logo=github)](https://github.com/KngCd)
