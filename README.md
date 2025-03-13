@@ -31,7 +31,7 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 ### 📣 Let's Connect:
 [![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&logo=github)](https://github.com/KngCd)
 [![Stars](https://img.shields.io/github/stars/KngCd?affiliations=OWNER&style=for-the-badge&logo=star)](https://github.com/KngCd?tab=repositories)
-[![Contributions](https://img.shields.io/github/commit-activity/y/KngCd?style=for-the-badge)](https://github.com/KngCd)
+[![KngCd's GitHub stats](https://github-readme-stats.vercel.app/api?username=KngCd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
 
 
