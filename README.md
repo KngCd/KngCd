@@ -26,8 +26,8 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 </p>
 
 ### 📣 Let's Connect:
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-[![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)](https://github.com/your-username?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/KngCd?label=Followers&style=social)](https://github.com/KngCd)
+[![GitHub stars](https://img.shields.io/github/stars/KngCd?affiliations=OWNER&style=social)](https://github.com/KngCd?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
 
 Feel free to explore my repositories and check out my work. Let's build something amazing together!
