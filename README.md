@@ -23,12 +23,18 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📣 Let's Connect:
-[![Follow](https://img.shields.io/badge/Follow-14-blue?style=for-the-badge&logo=github)](https://github.com/KngCd)
-[![Stars](https://img.shields.io/badge/Stars-5-green?style=for-the-badge&logo=star)](https://github.com/KngCd?tab=repositories)
+[![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&logo=github)](https://github.com/KngCd)
+[![Stars](https://img.shields.io/github/stars/KngCd?affiliations=OWNER&style=for-the-badge&logo=star)](https://github.com/KngCd?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=KngCd&color=blue&style=for-the-badge&label=Profile+Views)](https://github.com/KngCd)
+[![Contributions](https://img.shields.io/github/contributions/KngCd?style=for-the-badge&color=green&label=Contributions)](https://github.com/KngCd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
+
 
 Feel free to explore my repositories and check out my work. Let's build something amazing together!
 
