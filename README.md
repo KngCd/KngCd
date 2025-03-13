@@ -31,8 +31,7 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 ### 📣 Let's Connect:
 [![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&logo=github)](https://github.com/KngCd)
 [![Stars](https://img.shields.io/github/stars/KngCd?affiliations=OWNER&style=for-the-badge&logo=star)](https://github.com/KngCd?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=KngCd&color=blue&style=for-the-badge&label=Profile+Views)](https://github.com/KngCd)
-[![Contributions](https://img.shields.io/github/contributors/KngCd?style=for-the-badge&color=green&logo=github)](https://github.com/KngCd)
+[![Contributions](https://img.shields.io/github/commit-activity/y/KngCd?style=for-the-badge)](https://github.com/KngCd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
 
 
