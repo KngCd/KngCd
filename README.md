@@ -32,9 +32,22 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 [![KngCd's GitHub stats](https://github-readme-stats.vercel.app/api?username=KngCd&show_icons=true&theme=dark&count_private=true&custom_title=KngCd's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 📣 Let's Connect
-[![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&color=6CB4EE&labelColor=007FFF&logo=)](https://github.com/KngCd)
+<!-- [![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&color=6CB4EE&labelColor=007FFF&logo=)](https://github.com/KngCd)
 [![Stars](https://img.shields.io/github/stars/KngCd?affiliations=OWNER&style=for-the-badge&&color=90EE90&labelColor=4CBB17&logo=)](https://github.com/KngCd?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a) -->
+
+<p align="left">
+  <a href="https://github.com/KngCd?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KngCd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KngCd?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KngCd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a">
+    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 
 
 Feel free to explore my repositories and check out my work. Let's build something amazing together!
