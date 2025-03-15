@@ -37,17 +37,14 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a) -->
 
 <p align="left">
-  <a href="https://github.com/KngCd?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KngCd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+    <a href="https://github.com/KngCd?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KngCd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/KngCd?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KngCd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KngCd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://www.linkedin.com/in/king-cedrick-panaligan-8a6a4534a" style="text-decoration: none;">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 
 Feel free to explore my repositories and check out my work. Let's build something amazing together!
