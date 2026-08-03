@@ -1,11 +1,11 @@
 # Hi there, I'm Cedrick👋
 
-Welcome to my GitHub profile! I'm a passionate Developer with a love for web development. 
+Welcome to my GitHub profile! I'm a passionate Developer with a love for software testing and networking. 
 
 I enjoy working on testing/creating web systems and basic troubleshooting, and I'm always looking for new challenges to learn and grow. 
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning VILT stack.
+- 🌱 I’m currently learning QA Automation.
 - 🚀 I’m very curious about software testing, troubleshooting, and networking.
 - 🎯 I'm very willing to learn and to be trained to enhance my skills and knowledge.
 - 📫 How to reach me: panaligankingcedrick@gmail.com.
