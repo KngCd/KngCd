@@ -1,36 +1,235 @@
-# Hi there, I'm Cedrick👋
+# Hi there, I'm Cedrick 👋
 
-Welcome to my GitHub profile! I'm a passionate Developer with a love for software testing and networking. 
+### Aspiring QA Automation Engineer | Playwright | API Testing | JavaScript
 
-I enjoy working on testing/creating web systems and basic troubleshooting, and I'm always looking for new challenges to learn and grow. 
+Welcome to my GitHub profile!
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning QA Automation.
-- 🚀 I’m very curious about software testing, troubleshooting, and networking.
-- 🎯 I'm very willing to learn and to be trained to enhance my skills and knowledge.
-- 📫 How to reach me: panaligankingcedrick@gmail.com.
+I'm an aspiring **QA Automation Engineer** focused on building reliable and maintainable automated tests for web applications and APIs.
 
-### 🛠️ Technologies & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-9B5DE5?style=for-the-badge&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+I'm currently developing my skills in **Playwright, JavaScript, API testing, API mocking, authentication testing, and end-to-end testing**. I also have experience and interest in **web development, troubleshooting, and networking**, which helps me understand both the application and technical sides of software quality.
 
-### 🔥 My GitHub Stats  
-[![KngCd's GitHub stats](https://github-readme-stats.vercel.app/api?username=KngCd&show_icons=true&theme=dark&count_private=true&custom_title=KngCd's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KngCd&layout=compact&theme=dark)
+I'm passionate about learning, solving problems, and continuously improving my testing and automation skills.
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning and building projects in **QA Automation**
+- 🎭 Practicing **Playwright** for UI and End-to-End testing
+- 🔌 Learning **REST API testing and API automation**
+- 🧪 Exploring **API mocking and network interception**
+- 🔐 Learning authentication testing and **JWT / Bearer tokens**
+- 🐞 Interested in finding, reproducing, and preventing software defects
+- 🌐 Interested in web systems, troubleshooting, and networking
+- 🚀 Continuously improving my programming and problem-solving skills
+- 🎯 Open to learning, mentorship, and opportunities to grow as a QA Automation Engineer
+
+---
+
+## 🧪 QA & Testing Skills
+
+### 🎭 UI & End-to-End Testing
+
+- Playwright
+- Browser automation
+- End-to-End testing
+- UI testing
+- Locators and assertions
+- Cross-browser testing
+- Positive and negative test scenarios
+- Test organization and maintainability
+
+### 🔌 API Testing
+
+- REST API testing
+- GET / POST / PUT / PATCH / DELETE
+- Request and response validation
+- HTTP status codes
+- Request payloads
+- Response bodies
+- HTTP headers
+- Authentication
+- JWT / Bearer token authentication
+- API-based test data setup
+
+### 🎭 API Mocking
+
+- Playwright network interception
+- Mock API responses
+- `page.route()`
+- `route.fulfill()`
+- Successful API responses
+- 401 Unauthorized
+- 403 Forbidden
+- 404 Not Found
+- 500 Internal Server Error
+- Frontend error-state testing
+
+### 🧩 Test Design
+
+- Positive testing
+- Negative testing
+- Boundary testing
+- Regression testing
+- Test data management
+- API-assisted UI testing
+- Maintainable automation practices
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Playwright Automation
+
+Automated testing project for an e-commerce web application.
+
+**Testing includes:**
+
+- Product listing
+- Shopping cart functionality
+- Add/remove products
+- Product quantity validation
+- UI assertions
+- API-assisted test data setup
+- API mocking
+- Frontend error-state testing
+
+**Tech:** Playwright, JavaScript, REST API
+
+---
+
+### 🔌 API Testing with Playwright
+
+API automation project focused on testing REST API endpoints and validating responses.
+
+**Testing includes:**
+
+- GET requests
+- POST requests
+- Request payload validation
+- Response body validation
+- HTTP status code validation
+- HTTP headers
+- Authentication
+- JWT / Bearer tokens
+- Positive and negative API scenarios
+
+**Tech:** Playwright, JavaScript
+
+---
+
+### 🔐 Authentication & Login Testing
+
+Automated testing project covering authentication scenarios using real API requests and mocked API responses.
+
+**Testing includes:**
+
+- Successful login
+- Invalid credentials
+- 401 Unauthorized
+- 500 Internal Server Error
+- JWT authentication
+- API mocking
+- Frontend error handling
+- Authenticated user flows
+
+**Tech:** Playwright, JavaScript
+
+> More projects and test automation examples will be added as I continue learning and building.
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously expanding my QA Automation knowledge through hands-on projects and practical testing scenarios.
+
+### Current Focus
+
+- 🎭 Playwright UI & End-to-End testing
+- 🔌 REST API testing
+- 🧪 API automation with Playwright
+- 🔄 API mocking & network interception
+- 🔐 Authentication & JWT
+- 📊 API response validation
+- 🧩 Page Object Model (POM)
+- 🗃️ Test data management
+- ⚙️ Test automation best practices
+- 🚀 CI/CD for automated tests
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🧪 Testing & Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+---
+
+## 🎯 My Approach to Testing
+
+I believe good automation isn't just about writing more tests. It's about creating tests that are **reliable, maintainable, and provide useful feedback**.
+
+My current approach focuses on:
+
+- 🧪 Testing the right scenarios rather than simply increasing test count
+- 🔌 Using APIs to efficiently prepare test data
+- 🎭 Using API mocking to test frontend behavior under different conditions
+- 🔐 Testing authentication and authorization scenarios
+- ❌ Covering both positive and negative scenarios
+- 📊 Validating both API responses and UI behavior
+- 🧩 Keeping automation code organized and maintainable
+- 🚀 Continuously improving test execution and reliability
+
+---
+
+## 📚 My QA Automation Journey
+
+I'm building my QA Automation skills through hands-on projects and practical testing scenarios.
+
+```text
+Software Testing Fundamentals
+            ↓
+Web Application Testing
+            ↓
+JavaScript
+            ↓
+Playwright
+            ↓
+UI Automation
+            ↓
+API Testing
+            ↓
+API Mocking
+            ↓
+Authentication & JWT
+            ↓
+Test Architecture
+            ↓
+CI/CD
+```
+
+### 🔥 My GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KngCd&show_icons=true&theme=tokyonight) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KngCd&layout=compact&theme=tokyonight)
 
 ### 📣 Let's Connect
 <!-- [![Follow](https://img.shields.io/github/followers/KngCd?style=for-the-badge&color=6CB4EE&labelColor=007FFF&logo=)](https://github.com/KngCd)
@@ -49,4 +248,3 @@ I enjoy working on testing/creating web systems and basic troubleshooting, and I
 
 
 Feel free to explore my repositories and check out my work. Let's build something amazing together!
-
